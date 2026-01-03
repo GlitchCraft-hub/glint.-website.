@@ -1,0 +1,287 @@
+body{
+    background-image: url(WhatsApp\ Image\ 2026-01-02\ at\ 9.06.30\ PM.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+ .navbar {
+    background-color:#0c0c0c;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    border-radius: 30px;
+    margin: 1px -8px;
+} 
+.navbar li{
+    list-style-type: none;
+   margin: 2px 2px;
+    float: left;
+}
+.navbar li a{
+    padding: 3px 9px;
+    text-decoration: none;
+    color: white;
+}
+.text{
+    color: white;
+    float: right;
+    margin: 2px 18px;
+    padding:1px 35px ;
+} 
+.navbar input{
+    border-radius: 7px;
+    border: 2px solid black;
+    margin: 1px 1px;
+    padding: 2px 1px;
+    
+}
+ .navbar input:hover{
+   
+    background-color: rgb(179, 179, 179);
+    cursor: pointer;
+    border-radius: 25px;
+
+}
+.menu{
+    text-align: right;
+}
+.menu Glint{
+    text-align: left;
+}
+.mustafa{
+    text-align: right;
+}
+.img{
+    width: 135px;
+    height: 48px;
+    border-radius: 10px;
+   
+    }
+
+.lol{
+    width: 50px;
+    height: 42px;
+    border-radius: 15px;
+    float: right;
+}
+.we{ width: 50px;
+    height: 42px;
+    border-radius: 5px;
+    float: right;}
+.para{
+    margin: 23px 175px;
+    font-size: 24px;
+    font-weight: bolder;
+    color: white;
+}
+.ff{
+    font-weight: 600;
+    text-decoration: solid;
+    margin: -16px 172px; 
+    color: white;
+    font-size: 57px;
+    width :800px;
+}
+.smoothscroll.btn.btn--stroke{
+    border: solid black 2px;
+    margin: -16px 172px;
+    text-decoration: none;
+    font-size: 24px;
+    font-weight: bold;
+    border-color: black;
+    border-color: black;
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+}
+.smoothscroll.btn.btn-stroke{
+    border: solid black 2px;
+    margin: 10px -90px;
+    text-decoration: none;
+    font-size: 24px;
+    border-color: black;
+    color:rgb(255, 249, 249);
+    font-weight: bold;
+    border-radius: 10px;
+}
+.header-menu-text{
+    margin:20px 1230px;
+    padding: 0px;
+    justify-items: auto;
+    
+}
+.fa-brandfa-twitter{
+    text-align: right;
+    margin: 20px 20px;
+   
+    border-radius: 30px;
+}
+.aa{
+    height: 800px;
+    width: 1340px;
+}
+.op{
+    text-align: center;
+    font-size: 18px;
+    background-color: lightgreen;
+}
+.Glint{
+    font-weight: bolder;
+    text-align: center;
+    font-size: 45px;
+    
+    text-decoration: solid;
+}
+.hr{
+    color: black;
+    text-align: center;
+}
+.zx{
+    text-align: center;
+}
+.vl {
+  border-left: 2px solid rgb(52, 54, 52);
+  height: 200px;
+  margin: 20px 213px;
+}
+.vl {
+  border-left: 2px solid rgb(52, 54, 52);
+  height: 200px;
+  margin: 20px 426px;
+  text-align: center;
+}
+.iipara{
+    background-color: white;
+    margin:-18px 0px;
+    padding: 0%;
+
+}
+.color{
+    color: green;
+    text-align: center;
+    font-size: 30px;
+    margin: -10px 0px;
+    padding: 0px 0px;
+}
+.water{
+    text-align: center;
+    text-align: center;
+    font-weight: bold;
+    font-size: 49px;
+}
+.brush{
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    text-align: left;
+}
+.iiipara{
+    margin: -49px 0px;
+    background-color: white;
+    text-align: left;
+}
+.square{
+    margin: -90px 0px;
+    text-align: right;
+    background-color: white;
+}
+.IIS{
+    text-align: right;
+}
+.bro{
+    font-size: larger;
+    margin: 1px 1px;
+}
+.parafour{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bolder;
+}
+.parafour p{
+    color: green;
+    margin: 15px 0px;
+}
+.div{
+    background-color: white;
+}
+
+.lady{
+    margin: 2px 24px;
+    padding: 0px 0px;
+    background-color: white;
+    height: 600px;
+    
+}
+.green{
+    margin: 2px -29px;
+    padding: 0px 0px;
+    right: 50%;
+    height: 600px;
+   
+}
+.gree{
+    margin: -6px 28px ;
+    
+}
+.greent{
+    margin: -6px -31px;
+}
+.client{
+    background-color: rgb(184, 180, 180);
+    margin: -27px 0px ;
+
+}
+.client p{
+    color: green;
+    font-size: 29px;
+    font-weight: bold;
+    text-align: center;
+}
+/* .white{
+    color: white;
+    text-align: center;
+    font-size: 48px;
+    font-weight: bolder;
+} */
+ .client h1{
+    font-size: 48px;
+    font-weight: bolder;
+    color: rgb(0, 0, 0);
+    text-align: center;
+ }
+ .client h3{
+    text-align: center;
+ }
+ .beef{
+    background-color: black;
+ }
+ .banana{
+    margin :-6px 93px;
+ }
+ .beef p{
+    margin: 9px 161px;
+    color: white;
+ }
+ .kk{
+    text-align: center;
+    margin: 24px 181px;
+ }
+ .house{
+    margin:  24px 181px;
+    font-size: 50px;
+    font-weight: bolder;
+
+ }
+ .oo{
+    margin: -203px 0px;
+    font-weight: bold;
+    font-size: large;
+ }
+ .hou{
+     margin:  226px 181px;
+    font-size: 50px;
+    font-weight: bolder;
+ }
